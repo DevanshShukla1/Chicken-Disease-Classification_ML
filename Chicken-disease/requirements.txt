@@ -1,0 +1,7 @@
+tensorflow
+pandas
+numpy
+matplotlib
+dvc
+nitebook
+scikit-learn
